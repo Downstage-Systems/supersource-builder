@@ -23,4 +23,6 @@ Thanks for checking it out. Please visit [downstage.systems](https://downstage.s
 
 ## Download
 
-The first release is coming soon. [Leave your email](https://downstage.systems/apps/) to hear when it's ready. It will run on Apple Silicon Macs.
+[Download for Mac](https://github.com/Downstage-Systems/supersource-builder/releases/latest/download/Downstage-SuperSource-Builder.dmg) (Apple Silicon). This is a beta, so test it on a switcher that isn't in a show first.
+
+Open the disk image and drag the app to Applications. The first time, macOS blocks it: go to System Settings, Privacy & Security, and choose Open Anyway.
