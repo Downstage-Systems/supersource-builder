@@ -28,7 +28,7 @@ Thanks for checking it out. Please visit [downstage.systems](https://downstage.s
 
 [Download for Mac](https://github.com/Downstage-Systems/supersource-builder/releases/latest/download/Downstage-SuperSource-Builder.dmg) (version 2026.10.31, Apple Silicon, macOS 11 or later). This is a beta, so test it on a switcher that isn't in a show first.
 
-Open the disk image and drag the app to Applications. The first time, macOS blocks it: go to System Settings, Privacy & Security, and choose Open Anyway. Allow Local Network access if macOS asks, so the app can reach your switcher and Companion.
+Open the disk image and drag the app to Applications. Allow Local Network access if macOS asks, so the app can reach your switcher and Companion.
 
 Smart buttons need Bitfocus Companion with a Blackmagic ATEM connection. It's built for the ATEM Mini Extreme ISO, 2 M/E and 4 M/E.
 
